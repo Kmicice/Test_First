@@ -6,7 +6,7 @@ using namespace std;
 class date {
 	int rok;
 	string miesiac;
-	string dzien;
+	int dzien;
 	string godzina;
 
 	date(string, string, string, string);
