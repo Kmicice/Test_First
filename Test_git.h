@@ -4,7 +4,7 @@
 #include<string>
 using namespace std;
 class date {
-	int year;
+	string year;
 	string mont;
 	int day;
 	string hour;
