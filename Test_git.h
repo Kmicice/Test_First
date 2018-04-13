@@ -4,10 +4,10 @@
 #include<string>
 using namespace std;
 class date {
-	int rok;
-	string miesiac;
-	int dzien;
-	string godzina;
+	int year;
+	string mont;
+	int day;
+	string hour;
 
 	date(string, string, string, string);
 	date();
